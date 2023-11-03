@@ -1,0 +1,15 @@
+{
+    "HOMOLOGACAO": {
+        "base_url": "0",
+        "usuario_meu_correios": "0",
+        "codigo_acesso_api": "0"
+    },
+    "PRODUCAO": {
+        "base_url": "0",
+        "usuario_meu_correios": "0",
+        "cnpj": "0",
+        "numero_contrato": "0",
+        "numero_cartao_postagem": "0",
+        "codigo_acesso_api": "0"
+    }
+}

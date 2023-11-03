@@ -1,0 +1,8 @@
+Pillow
+pdf2image
+prettytable
+pymongo
+rapidfuzz
+requests
+retrying
+thefuzz

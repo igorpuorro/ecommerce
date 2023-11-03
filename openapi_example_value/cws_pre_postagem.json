@@ -1,0 +1,68 @@
+{
+    "sequencial": "0",
+    "remetente": {
+        "nome": "0",
+        "dddTelefone": "0",
+        "telefone": "0",
+        "dddCelular": "0",
+        "celular": "0",
+        "email": "0",
+        "cpfCnpj": "0",
+        "documentoEstrangeiro": "0",
+        "obs": "0",
+        "endereco": {
+            "cep": "0",
+            "logradouro": "0",
+            "numero": "0",
+            "complemento": "0",
+            "bairro": "0",
+            "cidade": "0",
+            "uf": "0"
+        }
+    },
+    "destinatario": {
+        "nome": "0",
+        "dddTelefone": "0",
+        "telefone": "0",
+        "dddCelular": "0",
+        "celular": "0",
+        "email": "0",
+        "cpfCnpj": "0",
+        "documentoEstrangeiro": "0",
+        "obs": "0",
+        "endereco": {
+            "cep": "0",
+            "logradouro": "0",
+            "numero": "0",
+            "complemento": "0",
+            "bairro": "0",
+            "cidade": "0",
+            "uf": "0"
+        }
+    },
+    "codigoServico": "0",
+    "numeroCartaoPostagem": "0",
+    "listaServicoAdicional": [
+        {
+            "codigoServicoAdicional": "0",
+            "valorDeclarado": "0"
+        }
+    ],
+    "itensDeclaracaoConteudo": [
+        {
+            "conteudo": "0",
+            "quantidade": "0",
+            "valor": "0"
+        }
+    ],
+    "pesoInformado": "0",
+    "codigoFormatoObjetoInformado": "0",
+    "alturaInformada": "0",
+    "larguraInformada": "0",
+    "comprimentoInformado": "0",
+    "cienteObjetoNaoProibido": 0,
+    "solicitarColeta": "0",
+    "observacao": "0",
+    "modalidadePagamento": "0",
+    "logisticaReversa": "0"
+}

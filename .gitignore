@@ -1,0 +1,11 @@
+.mypy_cache/
+.venv/
+__pycache__/
+downloads/
+!downloads/.gitkeep
+images/
+!images/.gitkeep
+json/
+!json/.gitkeep
+log/
+!log/.gitkeep
